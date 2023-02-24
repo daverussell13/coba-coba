@@ -1,3 +1,6 @@
 menambah fitur 1
 fitur 1 perlu ubah file1.txt
-fitur 2 perlu ubah file1.txt
+
+
+
+kontol
