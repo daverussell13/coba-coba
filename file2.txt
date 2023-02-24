@@ -1,1 +1,2 @@
+fitur 1 perlu ubah file2.txt
 menambah fitur 2
