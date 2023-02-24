@@ -1,6 +1,4 @@
 menambah fitur 1
 fitur 1 perlu ubah file1.txt
-
-
-
 kontol
+woi asulah
